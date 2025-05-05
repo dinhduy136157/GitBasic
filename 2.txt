@@ -1,0 +1,30 @@
+1. 🔧 CẤU HÌNH GIT
+Lệnh
+Mô tả
+git config --global user.name "Tên"
+Cài đặt tên người dùng
+git config --global user.email "email@domain.com"
+Cài đặt email
+git config --list
+Kiểm tra cấu hình
+
+
+2. 📁 KHỞI TẠO & SAO CHÉP DỰ ÁN
+Lệnh
+Mô tả
+git init
+Khởi tạo repo Git mới
+git clone <URL>
+Clone repo từ GitHub/GitLab về máy
+
+
+3. 🔍 KIỂM TRA TRẠNG THÁI
+Lệnh
+Mô tả
+git status
+Kiểm tra trạng thái file
+git log
+Xem lịch sử commit
+git diff
+So sánh thay đổi chưa stage
+

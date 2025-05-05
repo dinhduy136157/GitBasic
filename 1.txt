@@ -1,0 +1,10 @@
+Tự tạo 1 repo trên local, nhánh master
+Tạo 3 file text lần lượt là 1.txt, 2.txt, 3.txt
+Nội dung các file tùy chọn dài 10 dòng
+Thực hiện commit
+Thực hiện tạo nhánh mới develop
+Thực hiện tạo nhánh mới function-one, function-two
+Thêm sửa xóa các file trên các nhánh mới tạo
+Thực hiện commit trên các nhánh function
+Thực hiện merge với develop
+Thực hiện gỡ conflict phát sinh
